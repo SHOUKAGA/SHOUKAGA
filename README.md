@@ -19,9 +19,9 @@ DRI
 Euravia
 Aircraft such as the SHI Raven II or the Euravia EQ-89 refueling drone.
 
-Some more about me:
-Name: Shoukaga, or Jenna
-Pronouns: She/Her/They
+Some more about me:  
+Name: Shoukaga, or Jenna  
+Pronouns: She/Her/They  
 
   <!-- 
 **SHOUKAGA/SHOUKAGA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
