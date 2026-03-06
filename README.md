@@ -1,3 +1,5 @@
+<img width="2559" height="1437" alt="Tail_Raven_II" src="https://github.com/user-attachments/assets/9cc87f48-7d1d-4cf8-a4b8-05a88b330605" />  
+
 You found me, congratulations on finding my page.  
 
 There is not much here at the moment apart from my website and a thing I accidentally forked. To know stuff about me, you can find that information on my website though I will add that information eventually here as well.  
@@ -19,10 +21,11 @@ DRI
 Euravia  
 Aircraft such as the SHI Raven II or the Euravia EQ-89 refueling drone.  
 
+
 Some more about me:  
 Name: Shoukaga, or Jenna  
 Pronouns: She/Her/They/Them  
-I am infact trans like my bio suggests, and I haven't shared it around much, but here I am fine to say so due to anonymity and well that is who I am. Being Trans doesn't define my who idenity, but it defines my gender and that is what I am proud to be even if the world is agaisnt fellow trans people
+I am infact trans like my bio suggests, and I haven't shared it around much, but here I am fine to say so due to anonymity and well that is who I am. Being Trans doesn't define my who idenity, but it defines my gender and that is what I am proud to be even if the world is against fellow trans people
   <!-- 
 **SHOUKAGA/SHOUKAGA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,3 +40,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
