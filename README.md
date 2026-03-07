@@ -22,7 +22,7 @@ Aircraft such as the SHI Raven II or the Euravia EQ-89 refueling drone.
 Some more about me:  
 What is my name? You can just call me Shoukaga or just Kaga.  
 Pronouns: She/Her/They/Them  
-I am infact trans like my bio suggests, and I haven't shared it around much, but here I am fine to say so due to anonymity and well that is who I am. Being Trans doesn't define my who idenity, but it defines my gender and that is what I am proud to be even if the world is against fellow trans people.  
+I am infact trans like my bio suggests, and I haven't shared it around much, but here I am fine to say so due to anonymity and well that is who I am. Being Trans doesn't define my whole idenity, but it defines my gender and that is what I am proud to be even if the world is against fellow trans people.  
 
 My coding projects:  
 My website  
